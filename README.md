@@ -17,3 +17,13 @@
 #### sudo apt-get install build-essential python-dev
 
 #### sudo python setup.py install
+
+## sudo via ubuntu to rasp
+
+#### ssh pi@192.168.xxx.xxx
+
+# Cayene
+
+#### wget https://cayenne.mydevices.com/dl/rpi_wgnaqje8ya.sh
+
+#### sudo bash rpi_wgnaqje8ya.sh -v
