@@ -27,3 +27,7 @@
 #### wget https://cayenne.mydevices.com/dl/rpi_wgnaqje8ya.sh
 
 #### sudo bash rpi_wgnaqje8ya.sh -v
+
+#### https://github.com/myDevicesIoT/Cayenne-MQTT-Python
+
+#### https://www.youtube.com/watch?v=M8JuwCzPX7s
